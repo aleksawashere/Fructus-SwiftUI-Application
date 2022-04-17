@@ -30,7 +30,7 @@ struct FruitCardView: View {
                     .fontWeight(.heavy)
                     .shadow(color: Color.black, radius: 2, x: 2, y: 2)
                 //FRUIT: HEADLINE
-                Text("Blueberries are sweet, nutritious and wildly popular fruit all over the world.")
+                Text("Blueberries are sweet, nutritious and wildly popular fruit all over the world!!!")
                     .foregroundColor(Color.white)
                     .multilineTextAlignment(.center)
                     .padding(.horizontal,16)
